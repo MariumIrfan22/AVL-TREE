@@ -3,7 +3,7 @@ AVL tree is a self-balancing Binary Search Tree (BST) where the difference betwe
 # BALANCE FACTOR:
 Balance Factor = height of Left Subtree – height of Right Subtree.
 # TPYES OF ROTATION:
-•	Single Left Rotation (LL Rotation) \n
+• \n	Single Left Rotation (LL Rotation)
 •	Single Right Rotation (RR Rotation) \n
 •	Left Right Rotation (LR Rotation) \n
 •	Right Left Rotation (RL Rotation) \n
