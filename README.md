@@ -26,11 +26,11 @@ Rotate right () \
 ReBlance() \
 BalanaceFactor() 
 # ADVANTAGES:
-# HEIGHT OF AVL
+## HEIGHT OF AVL
 •	 The height of the AVL tree is always balanced. The height never grows beyond log N, where N is the total number of nodes in the tree. \
-# COMPLEXITY
+## COMPLEXITY
 •	It gives better search time complexity when compared to simple Binary Search trees. \
 •	Time Complexity =O(Log n)
-# CAPABILITY
+## CAPABILITY
 •	AVL trees have self-balancing capabilities
 
