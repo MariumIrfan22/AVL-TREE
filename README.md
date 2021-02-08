@@ -6,30 +6,30 @@ Balance Factor = height of Left Subtree – height of Right Subtree.
 • Single Left Rotation (LL Rotation) \
 •	Single Right Rotation (RR Rotation) \
 •	Left Right Rotation (LR Rotation) \
-•	Right Left Rotation (RL Rotation) \
+•	Right Left Rotation (RL Rotation) 
 # IMPORTANT NOTE:
 Here one important thing is that no matter whatever the size of binary tree or how many nodes are present in binary search tree but rotations can only be performed on three nodes only we look only for the three nodes and tried to arranged them or rotate them in AVL TREE
 # FUNCTIONS OF AVL TREE:
-Insertion ()
-Search()
-Delete ()
-InOrder ()
-PostOrder()
-PreOrder()
-Predecessor()
-Successor()
-GetHeight()
-FindMax()
-FindMin()
-Rotate left ()
-Rotate right ()
-ReBlance()
-BalanaceFactor()
+Insertion () \
+Search() \
+Delete () \
+InOrder () \
+PostOrder() \
+PreOrder() \
+Predecessor() \
+Successor() \
+GetHeight() \
+FindMax() \
+FindMin() \
+Rotate left () \
+Rotate right () \
+ReBlance() \
+BalanaceFactor() 
 # ADVANTAGES:
 # HEIGHT OF AVL
-•	 The height of the AVL tree is always balanced. The height never grows beyond log N, where N is the total number of nodes in the tree.
+•	 The height of the AVL tree is always balanced. The height never grows beyond log N, where N is the total number of nodes in the tree. \
 # COMPLEXITY
-•	It gives better search time complexity when compared to simple Binary Search trees.
+•	It gives better search time complexity when compared to simple Binary Search trees. \
 •	Time Complexity =O(Log n)
 # CAPABILITY
 •	AVL trees have self-balancing capabilities
