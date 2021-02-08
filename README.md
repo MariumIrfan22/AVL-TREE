@@ -3,10 +3,10 @@ AVL tree is a self-balancing Binary Search Tree (BST) where the difference betwe
 # BALANCE FACTOR:
 Balance Factor = height of Left Subtree – height of Right Subtree.
 # TPYES OF ROTATION:
-• \n	Single Left Rotation (LL Rotation)
-•	Single Right Rotation (RR Rotation) \n
-•	Left Right Rotation (LR Rotation) \n
-•	Right Left Rotation (RL Rotation) \n
+• Single Left Rotation (LL Rotation) \
+•	Single Right Rotation (RR Rotation) \
+•	Left Right Rotation (LR Rotation) \
+•	Right Left Rotation (RL Rotation) \
 # IMPORTANT NOTE:
 Here one important thing is that no matter whatever the size of binary tree or how many nodes are present in binary search tree but rotations can only be performed on three nodes only we look only for the three nodes and tried to arranged them or rotate them in AVL TREE
 # FUNCTIONS OF AVL TREE:
